@@ -1,5 +1,5 @@
 # qpmba  - 
-A boutique consultancy for outsourced  Privacy Services tailored for startups, scale ups small, medium and global enterpised active in Financila services, Life Sciences & Cliincal trilas.
+A boutique consultancy for outsourced  Privacy Services tailored for startups, scale ups, small, medium and global enterpise, active in Financial services, Life Sciences & Clinical trials.
 
 ## Coverage
 ### Data Protection Officer
