@@ -57,8 +57,7 @@ Our audit and certification services help organisations assess compliance, valid
 ---
 
 ## Deep Industry Knowledge
-International  multidisciplinary team delivering practcial, busines-orietnated solutions covering the ful spectrum of generic and industry specific  privacy needs.
-
+International  multidisciplinary team delivering practical, busines-orientated solutions covering the full spectrum of generic and industry specific privacy needs.
 
 ---
 
